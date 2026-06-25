@@ -29,7 +29,7 @@ Para executar o app na sua máquina, você precisará de:
 ### Rodando Localmente
 1. Clone o repositório do GitHub:
    ```bash
-   git clone https://github.com/BarbaraHelora/projetos-da-babis.git
+   git clone https://github.com/BarbaraHelora/conversor-de-moedas-PAMII.git
    cd conversor-de-moedas
    ```
 2. Instale as dependências do projeto:
@@ -51,7 +51,7 @@ Prontinho, o app estará em execução!
    - Clique em "Importar Repositório".
    - Cole o link do repositório:  
      ```
-     https://github.com/BarbaraHelora/projetos-da-babis.git
+     https://github.com/BarbaraHelora/conversor-de-moedas-PAMII.git
      ```
 4. O app será carregado automaticamente.  
 
