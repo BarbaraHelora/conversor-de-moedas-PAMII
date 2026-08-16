@@ -81,7 +81,7 @@ Coloque um valor em real e veja-o convertido automaticamente para USD, EUR e GBP
 
 ## 👩‍💻 Desenvolvedores
 
-Feito com ❤️ por **Bárbara Helóra** e **Gabriel Ferrari**  
+Feito com ❤️ por **Bárbara Helóra** e **Gabriel Peres Ferrari**  
 Estudantes do 3º M-Tec PI da **Etec Euro Albino de Sousa**  
 
 ---
