@@ -6,6 +6,9 @@
 Bem-vindo ao **Conversor**, o seu mais novo conversor de moedas automático!  
 Planeja fazer uma viagem e não sabe quanto dinheiro deve levar? Nós podemos te ajudar de forma simples: basta fazer login, digitar o valor em real e o Conversor irá "traduzir" seu valor para dólar, euro ou libra.  
 
+![Language](https://img.shields.io/badge/language-React%20Native-blue)
+![Status](https://img.shields.io/badge/status-Concluído-success)
+
 *(Planejamos adicionar mais moedas no futuro!)*
 
 ---
